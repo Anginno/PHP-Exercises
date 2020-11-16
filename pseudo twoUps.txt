@@ -1,0 +1,10 @@
+1. get buttons ready for players to click
+2. 
+
+
+
+Nutshell:
+
+3 options and computer generates random choice from
+the 3 buttons. If players guesses the correct button
+then a winning message will pop up.
